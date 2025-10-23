@@ -2,7 +2,7 @@
 
 ###  
 
-<p align="left">💻 Passionate about Frontend and Backend development, with a focus on building responsive, visually appealing, and modern web interfaces and designes.</p>
+<p align="left">💻 Passionate on FullStack web development, with a focus on building responsive, visually appealing, and modern web interfaces and designes.</p>
 
 ### 
 
